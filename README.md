@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SuzakuKoZ [Pedro Henrique]
+- 👀 I’m interested in Physics and Mathematic
+- 🌱 I’m currently learning Python
